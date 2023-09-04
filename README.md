@@ -1,7 +1,7 @@
 ### Olá! 
 
 - 👨‍🎓 Cursando Ciência da Computação na Universidade Presbiteriana Mackenzie
-- 📚 Estudando Java e C
+- 📚 Estudando Python, C e Java
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
